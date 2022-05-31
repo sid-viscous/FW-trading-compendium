@@ -11,6 +11,32 @@ For every successful trade you make, there will be an unsuccessful trade on the 
 No strategy is 100% accurate, trades should be made on expected probabilities of movements, with capital being managed appropriately for the risk level.
 
 
+## Markets
+
+### Spot market
+
+This is simple buying and selling between parties. 
+
+There are typically several transaction types available on spot markets:
+
+| Order type| Description |
+|---|---|
+| Market buy/sell | Buys/sells instantly. The transaction price may not be the same as the listed price. The exchange will match market orders with the closest available limit order. Market orders may fulfil at multiple prices if multiple limits were hit. |
+| Limit buy/sell | Sets a price for buying/selling. You will have to wait for the price to reach the limit and for the exchange to match a market sale to your limit order. Order fills are never guaranteed even if your limit price is reached. Try to avoid placing limit orders at popular levels, place them just above/below (e.g. 9.998 instead of 10.0).|
+| Stop market buy/sell | This is a safety order. If you hold a coin and the price falls below a set limit, a market sell will be made. |
+| Stop limit buy/sell | Similar to the stop market buy/sell, however a limit order is placed when the price reaches the stop limit.|
+
+### Futures market
+
+### Leveraged tokens
+
+### Options
+
+### Margin trading
+
+
+
+
 ### Wojak strategy
 
 ![Frustrated wojak](images/wojak.png)
@@ -94,6 +120,16 @@ Some potential indicators that a coin/project may not be reputable:
   * Be particularly wary of staking schemes with very high APY, if you get in early you *might* come out in profit, if not then you are essentially funding an early bird's exit. In order to achieve these APYs, they need a continuous flow of new money (see [Wonderland/TIME](https://cyberbump.net/wonderland-time-crypto-instant-millionaires-or-ponzi-scheme/)).
   * Staking should form some function for the operation of the blockchain, not just a pointless 'reward' system.
 
+
+## Metrics
+
+### On-chain metrics
+
+### Long/short ratio
+
+### Order book
+
+
 ## Stablecoins
 
 This time last year, I never imagined doing TA on and scalping stablecoins. If you have been asleep this year, look into the LUNA / UST fiasco.
@@ -113,7 +149,7 @@ See [here](https://www.cnet.com/personal-finance/crypto/luna-crypto-crash-how-us
 ### $USDT - Tether
 
 ### $USDC - 
-### BUSD 
+### $BUSD - Binance USD 
 ### $DAI -
 
 ## Algorithmic trading
