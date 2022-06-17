@@ -156,7 +156,7 @@ See [here](https://www.cnet.com/personal-finance/crypto/luna-crypto-crash-how-us
 
 ### Strategy trading
 
-### Grid trading
+### Grid trading - Grids are orders placed above and below a set price, creating a grid of orders at incrementally increasing and decreasing prices.  These techniques can be fully automated (AI) or semi automated (User Defined).  Exchanges and 3rd party trading tools can faciliate a grid strategy.   FW prefer 3COMMAS, but also have experience using others.   Grids can be set "wide" or "tight".   Each with their own respective risks and rewards.   Wide grids allow broad coverage across price ranges and require less user oversight.   Tight grids are focused, narrow, price ranges.  They can yield higher returns but will most likely require more user intervention, specifically when the asset price falls below the defined ranges.  
 
 ### The pinnacle - hybrid strategy and grid trading
 
